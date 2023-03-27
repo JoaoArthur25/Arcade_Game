@@ -2,7 +2,8 @@
 
 ## Introdução:
 
-    Olá, meu nome é João Arthur e esse é o meu Arcade, nele você pode jogar 3 mini-jogos como: Perguntas e respostas, Cobra na caixa e Gousmas War.
+    Olá, esse é o Arcade, nele você pode jogar 3 mini-jogos como: Perguntas e respostas, Cobra na caixa e Gousmas War.
+    Os criadores do projeto são: João Arthur Silva e Yuri Severo.
 
 ## Tecnologias Utilizadas:
 - Dev C++, linguagem C
