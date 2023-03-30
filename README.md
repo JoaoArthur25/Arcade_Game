@@ -17,7 +17,7 @@
     
     Extraia e abra na IDE de sua preferência, mas por preferência pessoal, farei uso do Dev C++.
 
-### Instalar pendências:
+### Executar:
 
     Com o arquivo do jogo aberto no Dev C++, aperte F11 para compilar e executar. Com este comando, o jogo será executado.
 
